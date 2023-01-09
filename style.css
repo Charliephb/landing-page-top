@@ -12,6 +12,9 @@ body {
     background-color: #1f2937 ;
     margin: 0;
     padding: 8px 150px;
+    border-bottom-style: inset;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
 }
 
 #headerlogo {
