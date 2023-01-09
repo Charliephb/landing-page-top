@@ -172,6 +172,7 @@ a {
     padding: 50px 120px;
     align-self: center;
     border-radius: 12px;
+    gap: 16px;
 }
 
 .inner {
